@@ -42,4 +42,5 @@ To get started with the materials in this repository:
 
 ## Contributor
 
-- Amanatullah Pandu Zenklinov
+- N SRINITHIN
+  
